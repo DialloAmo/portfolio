@@ -1,0 +1,132 @@
+<div class="page-projects">
+---
+title: "Projects"
+body-class: projects-page
+---
+
+## COVID-19 Diagnostic Prediction
+
+**Objective**  
+Predict SARS-CoV-2 positivity using clinical and biological data through a binary classification workflow.
+
+**Approach**
+- Data cleaning and preprocessing  
+- Feature engineering  
+- Binary classification with scikit-learn pipelines  
+- Hyperparameter tuning  
+- Recall-oriented evaluation to reduce false negatives  
+
+**Evaluation**
+- Confusion matrix  
+- Precision / Recall analysis across decision thresholds  
+- Cross-validation  
+
+**Key Takeaways**
+- Importance of recall in healthcare-related classification tasks  
+- Trade-off between precision and sensitivity  
+- Value of threshold analysis beyond standard accuracy  
+
+**Illustrative Results**  
+The final evaluation highlights how model assessment must be aligned with the application context. In a medical screening setting, reducing false negatives can be more important than maximizing overall accuracy alone.
+
+### Selected Visuals
+
+::: {.columns}
+::: {.column width="50%"}
+![](images/projects/covid/confusion_matrix_covid.png){fig-alt="COVID confusion matrix" width="92%"}
+:::
+
+::: {.column width="50%"}
+![](images/projects/covid/precision_recall_threshold_covid.png){fig-alt="COVID precision recall threshold curve" width="100%"}
+:::
+:::
+
+These visualizations illustrate the final classification behavior of the model and the threshold-dependent trade-off between precision and recall in a healthcare-oriented setting.
+
+🔗 [View Project on GitHub](https://github.com/DialloAmo/covid_analysis)
+
+---
+
+## Customer Churn Prediction & Business Insights
+
+**Objective**  
+Predict customer churn and provide actionable insights to support retention strategies.
+
+**Approach**
+- Exploratory Data Analysis (EDA)  
+- Feature engineering  
+- Classification models (baseline + optimized models)  
+- Model evaluation with business-oriented metrics  
+- Interpretability whith SHAP ans importance variables  
+
+**Business Perspective**
+- Identification of high-risk customers  
+- Analysis of key drivers of churn  
+- Translation of model outputs into actionable retention strategies  
+
+**Evaluation**
+- Precision, Recall, F1-score  
+- Confusion matrix  
+- ROC / Precision-Recall curves  
+
+**Key Takeaways**
+- Importance of interpretability in business decision-making  
+- Trade-off between model performance and actionability  
+- Value of data-driven insights for customer retention  
+
+### Selected Visuals
+
+::: {.columns}
+::: {.column width="50%"}
+![](images/projects/churn/SHAP.png){fig-alt="SHAP feature importance for churn prediction" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](images/projects/churn/precision_recall_vs_threshold.png){fig-alt="Precision recall threshold analysis for churn prediction" width="100%"}
+:::
+:::
+
+![](images/projects/churn/model_comparison.png){fig-alt="Model comparison table for churn prediction" width="85%"}
+
+These visuals highlight the interpretability, threshold optimization, and model comparison process used to translate churn prediction into actionable business insights.
+
+🔗 [View Project on GitHub](https://github.com/DialloAmo/Customer_Churn_Prediction)
+
+---
+
+## Upcoming Projects
+
+### Credit Risk Scoring — Statistical & ML Models
+
+- Default risk prediction  
+- Class imbalance handling  
+- Model calibration and threshold tuning  
+- Interpretability and regulatory perspective  
+
+---
+
+### End-to-End ML Pipeline — Prediction & Monitoring
+
+- Reproducible ML pipeline  
+- Training → prediction → monitoring  
+- Performance tracking  
+- Data drift detection (planned)  
+
+---
+
+## Technical Stack Across Projects
+
+**Languages & Tools**  
+Python, Git, Conda
+
+**Libraries**  
+pandas, NumPy, scikit-learn, matplotlib, seaborn  
+
+**Core Skills**
+- Data preprocessing and feature engineering  
+- Model training and evaluation  
+- Pipeline design  
+- Cross-validation and tuning  
+- Model interpretation 
+
+</div>

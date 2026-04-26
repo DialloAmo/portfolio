@@ -1,0 +1,77 @@
+<div class="page-research">
+---
+title: "Research & Internship"
+body-class: research-page
+---
+
+## Topology-Aware Machine Learning for Biomedical Data
+
+### Context
+
+Chronic Lymphocytic Leukemia (CLL) is a complex and heterogeneous disease with highly variable clinical evolution. Traditional statistical approaches often struggle to capture the underlying structure of high-dimensional biological data such as genomic or transcriptomic signals.
+
+This project is positioned at the intersection of applied mathematics, machine learning, and biomedical data analysis.
+
+---
+
+## Objective
+
+The goal of this internship is to develop an integrative analysis pipeline combining **Topological Data Analysis (TDA)** and **Machine Learning (ML)** to model relationships between biological markers and clinical outcomes.
+
+The project explores both directions:
+
+- **Prediction (Biology → Clinical)**  
+  Extract robust topological features from biological data and use them to predict disease progression and clinical outcomes.
+
+- **Inference (Clinical → Biology)**  
+  Reconstruct plausible biological representations from observed clinical trajectories using generative and inverse modeling approaches.
+
+---
+
+## Methodology
+
+- Integration of multi-omics and clinical datasets  
+- Construction of topological representations (simplicial complexes, persistence diagrams)  
+- Transformation into vectorized features (persistence images, landscapes)  
+- Machine learning models (random forests, neural networks, kernel methods)  
+- Dimensionality reduction (UMAP, t-SNE)  
+- Exploration of generative and invertible models (VAE, conditional GANs, INNs)  
+
+---
+
+## Skills & Tools
+
+**Mathematics**
+- Topological Data Analysis (TDA)  
+- High-dimensional data analysis  
+- Dynamical systems (conceptual exposure)
+
+**Machine Learning**
+- Representation learning  
+- Predictive modeling  
+- Model evaluation and validation  
+
+**Tools**
+- Python  
+- scikit-learn  
+- PyTorch / TensorFlow  
+- GUDHI, Ripser  
+
+---
+
+## Key Learning Outcomes
+
+- Working with complex, high-dimensional, and structured data  
+- Designing hybrid pipelines combining mathematical methods and ML  
+- Understanding the importance of representation in predictive performance  
+- Bridging theoretical concepts with applied machine learning  
+
+---
+
+## Positioning
+
+This work reflects my interest in **applied research at the intersection of mathematics and machine learning**, especially for complex real-world data.
+
+It complements my portfolio projects, which focus on business-oriented machine learning (churn prediction, risk modeling, ML pipelines), by adding a strong research and modeling dimension.
+
+</div>

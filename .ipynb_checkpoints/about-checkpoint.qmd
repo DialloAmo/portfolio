@@ -1,0 +1,71 @@
+---
+title: "About"
+body-class: about-page
+---
+
+## Profile
+
+I am a junior Data Science and Machine Learning profile with a strong mathematical background and a growing focus on applied machine learning, predictive modeling, and research-oriented problem solving.
+
+I am currently completing an M2 in Data Mathematics after a first master's degree in Algebra and Applications. My academic path has progressively led me from rigorous mathematical foundations to practical data science, machine learning, deep learning, and Topological Data Analysis (TDA).
+
+My goal is to build robust, interpretable, and useful machine learning systems, whether for business-oriented applications or more advanced scientific problems involving complex and high-dimensional data.
+
+---
+
+## Academic Journey
+
+### Université Gaston Berger de Saint-Louis
+
+![](images/ugb.jpg){fig-align="center" width="60%"}
+
+My first master's degree in Algebra and Applications provided strong foundations in mathematical reasoning, abstraction, and modeling.
+
+---
+
+### Sorbonne Paris Nord
+
+![](images/sorbonne.jpg){fig-align="center" width="60%"}
+
+I am currently completing an M2 in Data Mathematics, focusing on machine learning, data science, and computational methods for complex data.
+---
+
+## Areas of Interest
+
+- Machine Learning and predictive modeling  
+- Data Science for decision support  
+- Interpretable and reliable ML systems  
+- Topological Data Analysis (TDA)  
+- High-dimensional and biomedical data  
+- Applied research at the intersection of mathematics and machine learning  
+
+---
+
+## Current Direction
+
+My current internship focuses on an applied research pipeline combining TDA, ML, and DL for complex biomedical data. In parallel, I develop personal projects in classification, churn prediction, credit risk, and end-to-end ML workflows.
+
+Through this combination of mathematical training, applied projects, and research exposure, I am building a profile aimed at junior roles in Data Science, ML Engineering, and Applied Research Engineering.
+
+---
+
+## What I Value in My Work
+
+- clarity in problem formulation  
+- methodological rigor  
+- reproducibility  
+- interpretable results  
+- useful insights for decision-making  
+- bridges between theory and practice  
+
+---
+
+## Career Objective
+
+I am currently seeking opportunities aligned with junior roles in:
+
+- Data Science  
+- Machine Learning Engineering  
+- Applied Research Engineering  
+
+With a long-term interest in building reliable ML systems and contributing to technically demanding, real-world projects.

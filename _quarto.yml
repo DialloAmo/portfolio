@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "DIALLO Amadou | Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+

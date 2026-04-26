@@ -1,0 +1,78 @@
+<div class="page-home">
+---
+title: "DIALLO Amadou | Portfolio"
+body-class: home-page
+---
+
+<div style="display: flex; align-items: center; gap: 30px; margin-top: 30px; margin-bottom: 40px;">
+
+<img src="images/profile.jpg" style="width: 160px; height: 160px; object-fit: cover; border-radius: 12px;" />
+
+<div>
+
+
+<p>
+<a href="cv/amadou_diallo_cv.pdf" target="_blank" 
+style="display: inline-block; margin-top: 10px; padding: 8px 14px; background-color: #1d4ed8; color: white; border-radius: 6px; text-decoration: none;">
+Download Resume
+</a>
+</p>
+
+
+# DIALLO Amadou  
+### Junior Data Scientist | ML Engineer | Applied Research Engineer
+
+Applied Machine Learning and Data Science profile with a strong mathematical background.
+
+I build robust predictive models, interpretable ML systems, and research-oriented pipelines for complex data.
+
+</div>
+
+</div>
+
+---
+
+## About Me
+
+Currently completing an M2 in Data Mathematics after a first master's degree in Algebra and Applications, I specialize in Machine Learning, Deep Learning, Data Science, and Topological Data Analysis (TDA).
+
+My work combines business-oriented ML projects (churn prediction, risk modeling) with research-driven approaches involving high-dimensional data and topology-aware representations.
+
+---
+
+## What I Do
+
+### Data Science & Predictive Modeling
+Design and evaluation of predictive models with a strong focus on data quality, feature engineering, and business-oriented metrics.
+
+### Machine Learning & Pipelines
+Development of end-to-end ML workflows using scikit-learn pipelines, model tuning, and reproducible experimentation.
+
+### Applied Research & Complex Data
+Work on high-dimensional data using topology-aware methods (TDA), representation learning, and hybrid ML approaches.
+
+---
+
+## Featured Work
+
+### COVID-19 Diagnostic Prediction
+Binary classification model to predict SARS-CoV-2 positivity using clinical and biological data.
+
+[View Project](https://github.com/DialloAmo/covid_analysis)
+
+---
+
+### Customer Churn Prediction *(Work in Progress)*
+Predict customer churn and derive actionable business insights.
+
+[View Project](https://github.com/DialloAmo/Customer_Churn_Prediction)
+
+---
+
+## Contact
+
+📧 [amadoudiallodjikesse@gmail.com](mailto:amadoudiallodjikesse@gmail.com)
+🔗 [GitHub](https://github.com/DialloAmo)
+🔗 [LinkedIn](https://www.linkedin.com/in/amadou-diallo-454270238)
+
+</div>
